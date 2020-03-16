@@ -1,5 +1,5 @@
 # TheSuperComputer
 Latihan Pemrog BAB 3
-Nama  :Andre
-NIM   :19.11.3102  
-Kelas :IF - 08 
+/nNama  :Andre
+/nNIM   :19.11.3102  
+/nKelas :IF - 08 
